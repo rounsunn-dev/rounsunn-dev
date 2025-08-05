@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Sunny (aka rounsunn-dev)
 
-<!--
-**rounsunn-dev/rounsunn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Rust + Solana developer passionate about building real-world systems that make an impact.
 
-Here are some ideas to get you started:
+- 🛠 Currently building: smart contracts on Solana
+- 🔁 Learning in public: Rust, Anchor, on-chain security, ZK
+- 🌱 Also exploring: LLD, System Design, Real Use Projects
+- 💼 Ex-Jio | Ex-Nutanix | IIT Dhanbad (Int. MTech Math & Computing)
+- 📫 How to reach me: rounsunn.dev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I'm Working On
+- 🧠 `rzss-playground` – Rust + ZK + Solana security & smart contracts
+- 📚 `rust-notes` – Structured notes for Rust concepts
+- 📦 `warehouse-chain` – Real-world example of on-chain inventory
+
