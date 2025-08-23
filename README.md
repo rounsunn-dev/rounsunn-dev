@@ -1,79 +1,100 @@
-# 👋 Hi, I'm Sunny (aka rounsunn-dev)
+# Hi, I'm Sunny (aka rounsunn-dev)  
+**Full-Stack Developer | AI Builder | Web3 Protocol Engineer**  
 
-**Smart Contract Developer | DeFi Protocol Builder | Web3 Solutions**
-
-💼 **Available for blockchain projects** • Ex-Jio | Ex-Nutanix | IIT Dhanbad (Int. MTech Math & Computing)
-
-## 🚀 What I Build
-
-- 💰 **Token Contracts**: ERC-20/721 tokens with advanced features (mint, burn, staking)
-- 🏦 **DeFi Protocols**: Crowdfunding platforms, yield farming, automated distribution
-- 🗳️ **DAO Systems**: Governance tokens, voting mechanisms, treasury management
-- 🔗 **Smart Contract Integration**: Full-stack Web3 applications with secure backends
-- 🛡️ **Security-First Development**: Gas optimization, audit-ready contracts
-
-## 🛠️ Tech Stack
-
-**Blockchain**: Ethereum/Hardhat • Solidity • Web3.js/Ethers.js • OpenZeppelin
-**Backend**: Node.js • TypeScript • Testing Frameworks • Multi-network Deployment
-**Enterprise**: Java • Python • System Design • Cloud Infrastructure • CI/CD
-
-## 💼 Services I Provide
-
-**🔥 I help startups and companies:**
-- ✅ **Launch token projects** (ERC-20/721 with tokenomics and marketplace integration)
-- ✅ **Build DeFi protocols** (crowdfunding, staking, yield distribution systems)
-- ✅ **Create DAO governance** (voting systems, proposal execution, treasury controls)
-- ✅ **Develop Web3 applications** (frontend integration with smart contract backends)
-- ✅ **Optimize and audit** (gas efficiency, security reviews, deployment strategies)
-
-**💰 Pricing**: Competitive rates for high-quality, production-ready smart contracts
-
-## 🌟 Featured Projects
-
-### 💰 [Advanced Token Suite](https://github.com/rounsunn-dev/ethereum-smart-contracts-fundamentals)
-**Production-Ready ERC-20/721 Implementation**
-- Multi-featured token contracts with burn/mint capabilities
-- NFT collections with reveal mechanics and royalty systems
-- Comprehensive testing suite and deployment automation
-- Gas-optimized patterns and security best practices
-
-### 🏦 [DeFi Protocol Framework](https://github.com/rounsunn-dev/ethereum-smart-contracts-fundamentals)
-**Complete Crowdfunding & Yield Platform**
-- Time-based crowdfunding with milestone releases
-- Automated yield distribution and reward mechanisms
-- Investor protection with refund capabilities
-- Integration with popular DeFi protocols
-
-### 🗳️ [DAO Governance System](https://github.com/rounsunn-dev/ethereum-smart-contracts-fundamentals)
-**Decentralized Organization Infrastructure**
-- Token-based voting with delegation support
-- Proposal lifecycle management and execution
-- Treasury controls and multi-signature integration
-- Timelock mechanisms for security
-
-### 🧠 GeoZK Protocol
-**Zero-Knowledge Geographic Verification**
-- Privacy-preserving location proof systems
-- ZK-SNARK implementation for geographic data
-- Real-world application of advanced cryptography
-
-## 🎯 Specializations
-
-- 🔐 **Smart Contract Security**: Reentrancy protection, access controls, audit preparation
-- ⚡ **Gas Optimization**: Efficient storage patterns, batch operations, cost reduction
-- 🌐 **Multi-Network Deployment**: Ethereum mainnet, testnets, L2 solutions
-- 🔄 **Protocol Integration**: Uniswap, Aave, OpenSea compatibility
-- 📊 **Tokenomics Design**: Economic models, incentive structures, sustainability
-
-## 🤝 Let's Connect
-
-- 📧 **Email**: rounsunn.dev@gmail.com
-- 💬 **Available for**: Token launches, DeFi development, DAO creation, Web3 integration
-- 🎯 **Response time**: 24 hours for project inquiries
+💼 Available for **Full-stack + AI + Web3 projects**  
+Ex-Jio | Ex-Nutanix | IIT Dhanbad (Int. MTech Math & Computing)  
 
 ---
 
-> 💡 **Need smart contracts that combine enterprise-grade engineering with cutting-edge blockchain technology?**  
-> **I deliver secure, scalable, and cost-effective Web3 solutions.**  
-> **Let's build the future together! 🚀**
+## 🚀 What I Build  
+
+### 🌐 Full-Stack Applications  
+- Scalable web apps (React, Next.js, Vite, Tailwind)  
+- API backends (FastAPI, Node.js, TypeScript, PostgreSQL, MongoDB)  
+- CI/CD pipelines, system design, cloud infra (AWS, GCP, Docker, Kubernetes)  
+
+### 🧠 AI & Data Systems  
+- AI-powered apps (LLM integration, ChatGPT, LangChain, RAG)  
+- Data engineering pipelines & APIs for clean data ingestion  
+- ML/NLP models for recommendations, insights & automation  
+
+### 🔗 Blockchain & Web3  
+- 💰 Token Contracts: ERC-20/721/1155 with advanced features  
+- 🏦 DeFi Protocols: Crowdfunding, yield farming, staking, distribution  
+- 🗳️ DAO Systems: Governance tokens, voting, treasury controls  
+- 🔐 Security-First Contracts: Gas optimization, audit-ready designs  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend**: React • Next.js • Vite • Tailwind • Shadcn/UI  
+**Backend**: FastAPI • Node.js • TypeScript • PostgreSQL • MongoDB  
+**AI/ML**: Python • LangChain • Vector DBs (Pinecone, Weaviate, Milvus) • HuggingFace  
+**Blockchain**: Solidity • Hardhat • Ethers.js/Web3.js • OpenZeppelin  
+**Infra**: Docker • Kubernetes • CI/CD • AWS/GCP • Nginx  
+**Enterprise**: Java • System Design • Cloud Infrastructure  
+
+---
+
+## 💼 Services I Provide  
+
+🔥 I help startups and companies build:  
+✅ **Full-stack apps** with production-ready backend/frontend + APIs  
+✅ **AI integrations**: chatbots, recommendation engines, data pipelines  
+✅ **Web3 protocols**: tokens, DeFi, DAOs, NFT marketplaces  
+✅ **Security + Optimization**: scalable infra, audit-ready contracts, gas-efficient design  
+
+💰 **Pricing**: Competitive rates for high-quality, production-ready systems  
+
+---
+
+## 🌟 Featured Projects  
+
+### 🧑‍💻 Full-Stack & AI  
+- **InsightHub** – AI-powered dashboard for real-time analytics  
+- **ChatOps Bot** – LLM-integrated workflow automation tool  
+- **Data API Suite** – Clean, scalable ingestion pipelines with FastAPI  
+
+### 💰 Advanced Token Suite  
+- ERC-20/721 implementations (burn/mint, royalties, staking)  
+- NFT collections with reveal + royalties  
+- Gas-optimized & audit-ready  
+
+### 🏦 DeFi Protocol Framework  
+- Crowdfunding with milestone releases  
+- Yield farming & automated reward systems  
+- Investor protection mechanisms  
+
+### 🗳️ DAO Governance System  
+- Token-based voting & delegation  
+- Proposal execution with timelocks  
+- Treasury controls with multisig  
+
+### 🧠 GeoZK Protocol  
+- Zero-Knowledge geographic verification  
+- ZK-SNARK for location proofs  
+- Advanced cryptography in practice  
+
+---
+
+## 🎯 Specializations  
+
+🔐 Smart Contract Security (audit prep, access control, reentrancy protection)  
+⚡ Gas Optimization (storage patterns, batching, efficiency)  
+🌐 Multi-Domain Deployment (Web2 apps + AI systems + Web3 integration)  
+📊 Tokenomics Design (economic models, incentive structures)  
+🔄 Protocol Integrations (Uniswap, Aave, OpenSea, LangChain, Vector DBs)  
+
+---
+
+## 🤝 Let's Connect  
+
+📧 Email: **rounsunn.dev@gmail.com**  
+💬 Available for: **Full-stack apps • AI products • Web3 protocols**  
+🎯 Response time: 24 hours for project inquiries  
+
+💡 Need **enterprise-grade engineering** across **Full-stack + AI + Web3**?  
+I deliver **secure, scalable, and cost-effective solutions.**  
+
+Let’s build the future together! 🚀  
